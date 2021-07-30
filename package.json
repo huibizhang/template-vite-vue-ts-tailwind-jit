@@ -6,7 +6,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "vitawind": "^1.2.6",
+    "vitawind": "^1.2.7",
     "vue": "^3.0.5"
   },
   "devDependencies": {
