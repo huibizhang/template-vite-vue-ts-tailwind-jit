@@ -17,7 +17,7 @@ yarn
 ## Develop
 with npm:
 ```bash
-npm dev
+npm run dev
 ```
 with yarn:
 ```bash
