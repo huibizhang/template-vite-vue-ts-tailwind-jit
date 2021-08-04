@@ -25,10 +25,10 @@
       >Volar</a
     >
     (if using
-    <code class="bg-gray-200 p-1 rounded text-gray-700">&lt;script setup&gt;</code>)
+    <code class="bg-gray-100 p-1 rounded text-gray-700">&lt;script setup&gt;</code>)
   </p>
 
-  <p class="space-x-4 mt-4">See <code class="bg-gray-200 p-1 rounded text-gray-700">README.md</code> for more information.</p>
+  <p class="space-x-4 mt-4">See <code class="bg-gray-100 p-1 rounded text-gray-700">README.md</code> for more information.</p>
 
   <p class="space-x-4 mt-4">
     <a class="text-green-500 hover:underline hover:text-green-400 transition-all" href="https://vitejs.dev/guide/features.html" target="_blank">
@@ -47,7 +47,7 @@
   
   <p class="space-x-4 mb-4">
     Edit
-    <code class="bg-gray-200 p-1 rounded text-gray-700">components/HelloWorld.vue</code> to test hot module replacement.
+    <code class="bg-gray-100 p-1 rounded text-gray-700">components/HelloWorld.vue</code> to test hot module replacement.
   </p>
 </template>
 
