@@ -6,7 +6,6 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "vitawind": "^1.2.7",
     "vue": "^3.0.5"
   },
   "devDependencies": {
@@ -14,6 +13,7 @@
     "@vue/compiler-sfc": "^3.0.5",
     "typescript": "^4.3.2",
     "vite": "^2.4.4",
-    "vue-tsc": "^0.0.24"
+    "vue-tsc": "^0.0.24",
+    "vitawind": "^1.2.7"
   }
 }
